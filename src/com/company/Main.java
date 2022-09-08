@@ -34,6 +34,7 @@ public class Main {
         // 5. Adim: Baglanti ve Statement'i kapat
         con.close();
         st.close();
+        //github'a yedekledim
 
 
     }
