@@ -25,7 +25,7 @@ public class Query02 {
             //index kullanarak
             //System.out.println(data.getInt(1)+
             //        data.getString(2)+
-            //        vdata.getString(3)+
+            //        data.getString(3)+
             //        data.getString(4));
 
             //sutun ismi kuşşnarak
